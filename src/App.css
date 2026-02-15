@@ -1,0 +1,15 @@
+.user {
+
+   border-radius: 20px;
+   padding: 20px;
+   border: 1px;
+}
+
+.user-btn {
+   background-color: #e0e5ec;
+   border: 1px solid black;
+}
+
+body {
+   background-color: rgb(222, 252, 255);
+}
